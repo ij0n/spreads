@@ -127,6 +127,6 @@ Getting Help
 ------------
 
 - IRC: irc.freenode.net, #diybookscanner
-- Forums: http://diybookscanner.org/forums
+- Forums: http://www.diybookscanner.org/forum/
 - Bugtracker: https://github.com/DIYBookScanner/spreads/issues
 
